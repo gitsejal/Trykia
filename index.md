@@ -1,7 +1,7 @@
 [**TRYKIA**](#)
 
 -   [Home (current)](#)
--   [Product](product.html)
+-   [Product](product.md)
 -   [Category](#)
     [Picture gifts](#) [Non picture gifts](#)
     [Best seller](#) [Budget Friendly](#)
